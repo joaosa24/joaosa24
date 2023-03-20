@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaosa24&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div width="50">
-  <h3 align="left"> Wishing to make a difference and be able to live up to the expectations! 🕊️ </h3>
+  <h2 align="center"> Wishing to make a difference and be able to live up to the expectations! 🕊️ </h2>
 </div>
