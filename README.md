@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width=1200/>
+  <img src="https://www.united-forum.de/proxy.php?image=http%3A%2F%2Fimg.pr0gramm.com%2F2016%2F06%2F13%2F50272a0d34a8666d.gif&hash=b00846576b647172c14c55aff18d8a38" width=1200/>
   <h1 align="center"> Hey there ✌️, I'm João Sá </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/joão-sá-b682a0215/">
@@ -30,21 +30,23 @@ Here are some ideas to get you started:
 </div>
 <img src="https://komarev.com/ghpvc/?username=joaosa24&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
-  <img src="https://www.united-forum.de/proxy.php?image=http%3A%2F%2Fimg.pr0gramm.com%2F2016%2F06%2F13%2F50272a0d34a8666d.gif&hash=b00846576b647172c14c55aff18d8a38" width="600" height="300"/>
-</div>
+
 
 ---
 
 ### :superhero: About me :
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b5/68/ca/b568caba7545add5b2798a1c5d5127d1.gif">
 
-- :telescope: I’m studying @ Universidade do Minho.
+<p align="left">
 
-- :seedling: Learning Computer Science and engineering.
+- :telescope: I’m studying **@ Universidade do Minho**.
+
+- :seedling: Learning **Computer Science and engineering**.
 
 - :zap: In my free time, I like to play games and learn new stuff.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-sá-b682a0215/)
+- :mailbox:How to reach me: **joaopedrorsa@gmail.com**
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -58,4 +60,6 @@ Here are some ideas to get you started:
 ### 🔥 My stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaosa24&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+<div width="50">
+  <h3 align="left"> Wishing to make a difference and be able to live up to the expectations! 🕊️ </h3>
+</div>
