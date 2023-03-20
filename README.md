@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 
 ### :superhero: About me :
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b5/68/ca/b568caba7545add5b2798a1c5d5127d1.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/b5/68/ca/b568caba7545add5b2798a1c5d5127d1.gif">
 
 <p align="left">
 
