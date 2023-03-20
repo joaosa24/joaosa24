@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I like to play games and learn new stuff.
 
-- :mailbox:How to reach me: **joaopedrorsa@gmail.com**
+- :mailbox: How to reach me: **joaopedrorsa@gmail.com**
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
