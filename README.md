@@ -45,5 +45,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaosa24&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div width="50">
-  <h2 align="center"> "Pedras no caminho? Guardo todas, um dia vou construir um castelo, com as frases que me atribuem erradamente" - Fernando Pessoa :hat: </h2>
+  <h2 align="center"> "Pedras no caminho? Guardo todas, um dia vou construir um castelo, com as frases que me atribuem erradamente" - Fernando Pessoa 🎩 </h2>
 </div>
