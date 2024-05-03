@@ -39,8 +39,9 @@
 **![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)**
 **![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)**
 **![Photoshop Badge](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=white)**
-**![Illustrator Badge](https://img.shields.io/badge/Illustrator-purple?style=for-the-badge&logo=adobe-illustrator&logoColor=white)**
-**![Bash Badge](https://img.shields.io/badge/Bash-green?style=for-the-badge&logo=gnu-bash&logoColor=white)**
+**![Illustrator Badge](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobe-illustrator&logoColor=white)**
+**![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)**
+**![Git Badge Black](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)**
 
 ### 🔥 My stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaosa24&theme=dark&background=000000)](https://git.io/streak-stats)
