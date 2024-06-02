@@ -42,6 +42,7 @@
 **![Illustrator Badge](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobe-illustrator&logoColor=white)**
 **![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)**
 **![Git Badge Black](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)**
+**![Astro Badge Grey](https://img.shields.io/badge/Astro-grey?style=for-the-badge&logo=astro)**
 
 ### 🔥 My stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaosa24&theme=dark&background=000000)](https://git.io/streak-stats)
