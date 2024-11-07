@@ -38,6 +38,7 @@
 **![HTML Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)**
 **![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)**
 **![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)**
+**![MySQL Badge](https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)**
 **![Photoshop Badge](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=white)**
 **![Illustrator Badge](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobe-illustrator&logoColor=white)**
 **![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)**
